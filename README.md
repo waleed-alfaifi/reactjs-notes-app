@@ -1,6 +1,6 @@
 ## Live Website
 
-https://react-notes.ml/
+https://stellular-squirrel-be29f3.netlify.app/
 
 ---
 
